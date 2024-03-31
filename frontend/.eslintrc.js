@@ -56,6 +56,7 @@ module.exports = {
       },
     ],
     // React rules
+    "react/jsx-props-no-spreading": "off",
     'react/jsx-fragments': ['warn', 'syntax'], // Shorthand syntax for React fragments
     'react/jsx-filename-extension': [
       'warn',
